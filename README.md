@@ -1,1 +1,1 @@
-# alphaMediaServiceTest
+Используйте npm start. 
